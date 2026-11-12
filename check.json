@@ -1,0 +1,11 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "count": 2,
+    "next": "Studio intake",
+    "nextDate": "2026-11-16"
+  }
+}

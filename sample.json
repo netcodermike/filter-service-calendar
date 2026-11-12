@@ -1,0 +1,21 @@
+{
+  "asOf": "2026-11-11",
+  "filters": [
+    {
+      "name": "Studio intake",
+      "lastService": "2026-10-12",
+      "days": 45,
+      "usedHours": 150,
+      "limitHours": 180,
+      "hoursPerDay": 6
+    },
+    {
+      "name": "Workshop return",
+      "lastService": "2026-10-15",
+      "days": 90,
+      "usedHours": 100,
+      "limitHours": 360,
+      "hoursPerDay": 5
+    }
+  ]
+}
